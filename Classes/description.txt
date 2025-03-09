@@ -1,0 +1,67 @@
+May the Force be with you,
+
+That's what my master keep repeating all day long, along with those boring self-control lessons... Why can't I just have fun with my lightsaber?
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Padawan Goat: You can use a lightsaber.
+- Jedi Goat: [Locked] You can use the light side of the Force.
+- Sith Goat: [Locked] You can use the dark side of the Force.
+
+[b]KEYBOARD CONTROLS[/b]
+[h1]Padawan Goat[/h1]
+- [b][LeftClick]:[/b] Hold to activate lightsaber.
+- [b]Move Camera:[/b] Move the lightsaber around you.
+- [b][LeftClick]+[RightClick]+[E]:[/b] Change lightsaber color.
+[h1]Jedi/Sith Goat[/h1]
+- [b][R]:[/b] Start/stop using the Force.
+- [b][RightClick]+Move Camera:[/b] Hold to move the Force center on a vertical plane.
+- [b][RightClick]+[LeftClick]+Move Camera:[/b] Hold to move the Force center on a horizontal plane.
+- [b][RightClick]:[/b] Release [RightClick] to stop moving the Force center.
+- [b][RightClick]+[LeftClick]:[/b] Release [RightClick] to throw the items controlled by the Force.
+
+[b]GAMEPAD CONTROLS[/b]
+[h1]Padawan Goat[/h1]
+- [b][RT]:[/b] Hold to activate lightsaber.
+- [b]Move Camera:[/b] Move the lightsaber around you.
+- [b][RT]+[LT]+[X]:[/b] Change lightsaber color.
+[h1]Jedi/Sith Goat[/h1]
+- [b][Y]:[/b] Start/stop using the Force.
+- [b][LT]+Move Camera:[/b] Hold to move the Force center on a vertical plane.
+- [b][LT]+[RT]+Move Camera:[/b] Hold to move the Force center on a horizontal plane.
+- [b][LT]:[/b] Release [LT] to stop moving the Force center.
+- [b][LT]+[RT]:[/b] Release [LT] to throw the items controlled by the Force.
+
+[b]CHARACTERISTICS[/b]
+[h1]Padawan Goat[/h1]
+- The lightsaber can "cut" through things, leaving a melted mark on them.
+- The lightsaber will do huge damages to enemies, killing them instantly most of the time.
+- The lightsaber will break explosive/breakable items.
+- You can't use the lightsabler when ragdolled.
+[h1]Jedi Goat[/h1]
+- Slice 20 enemies without slicing any innocent to unlock it (changing map reset counts).
+- Enemies are NPCs attacking a player or NPCs with life points.
+- Using the Force will grab an item in front of you and move it around.
+[h1]Sith Goat[/h1]
+- Slice 20 innocents without slicing any enemy to unlock it (changing map reset counts).
+- Using the Force will grab a pack of items in front of you and move them around.
+[h1]Jedi/Sith Goat[/h1]
+- The Force will break explosibe/breakable items inside it.
+- The Force can only move items up to a certain weight.
+
+[b]EASTER EGGS[/b]
+- [spoiler]Throwing things with the lightsaber hilt turn out to be as fun as burning them with the blade :D[/spoiler]
+- [spoiler]If used carefully, the Force can let you transport items to a precise spot without moving yourself.[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- The lightsabler can pass through matter when you move it around.
+- The lightsaber hilt can collide with items and push them around.
+- The lightsaber may fail to interat with items if you pass through them too fast.
+- The Force may stay active after all items inside it have been lost (broken/destroyed).
+
+[b]DEV NOTES[/b]
+[quote=About this mod]As soon as I found a lightsaber in the Waste of Space map, I knew I had to make a mod like this one sone day :p So I added it to the planned list before people even had time to request it X)
+First of all the lightsaber mutator is the core of this mod, and I think it's working exactly as intended: the controls used for it are exactly those I had in mind when I imagined the mod, and the lightsaber effect on things is really cool. The burning mark code was already included in the lightsaber item itself, but I modified it a bit to make it work on more surfaces and I added the break effect on explosive/breakable items.
+About Jedi Goat and Sith Goat, any of you owning the Waste of Space DLC will recognize the Good Goat and Father Goat here ^^ In the beginning I was just planning to unlock those for people completing the objectives, but I noticed the original mutators were not working completely well on non-space maps. Also the controls to move the Force sphere around were a bit annoying, not really going where you want to go, so I ended up doing a modified version of these mutators. The modification do not change many things, but it allows you to move the Force field on any map (not only the space map) and to keep the Force where it is when you release the right click, allowing for more complex movements.
+[/quote]
